@@ -1,0 +1,15 @@
+{
+  "altar_energy": 121,
+  "persona": "normal",
+  "world_events": {
+    "spirit_tide": {
+      "active": false
+    },
+    "kitchen_chaos": {
+      "active": false
+    },
+    "heixiu_frenzy": {
+      "active": false
+    }
+  }
+}

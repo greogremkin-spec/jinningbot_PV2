@@ -1,0 +1,22 @@
+{"ts": 1774281654, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1774298370, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "3400893006", "gain": 6, "type": "half"}}
+{"ts": 1774310541, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 61, "drops": []}}
+{"ts": 1774310565, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774314464, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 12, "drops": []}}
+{"ts": 1774314515, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1774343864, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 62, "drops": []}}
+{"ts": 1774344045, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774348555, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 5, "drops": []}}
+{"ts": 1774348555, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774349075, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "2693566378", "gain": 4, "type": "half"}}
+{"ts": 1774351697, "type": "meditation", "uid": 3141451467, "data": {"sp_gain": 31}}
+{"ts": 1774352264, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 8, "drops": ["法宝碎片"]}}
+{"ts": 1774352308, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774356464, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 9, "drops": []}}
+{"ts": 1774356482, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774360664, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 9, "drops": ["法宝碎片", "嘿咻毛球"]}}
+{"ts": 1774361049, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 31}}
+{"ts": 1774361056, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774361093, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774364864, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 10, "drops": ["神秘种子"]}}
+{"ts": 1774364908, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}

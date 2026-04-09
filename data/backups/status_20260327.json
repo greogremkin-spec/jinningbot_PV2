@@ -1,0 +1,12 @@
+{
+  "altar_energy": 103,
+  "persona": "normal",
+  "world_events": {
+    "spirit_tide": {
+      "active": false
+    },
+    "kitchen_chaos": {
+      "active": false
+    }
+  }
+}

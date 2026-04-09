@@ -1,0 +1,13 @@
+{
+  "schema_version": "5.0",
+  "group_id": 210383914,
+  "heixiu_state": {
+    "active": false,
+    "heixiu_type": "normal",
+    "start_time": 0,
+    "expire_time": 0,
+    "group_id": 210383914,
+    "last_spawn_ts": 1775648213.2764056,
+    "spawn_source": ""
+  }
+}

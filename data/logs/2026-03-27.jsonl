@@ -1,0 +1,28 @@
+{"ts": 1774577383, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "2378665317", "gain": 4, "type": "half"}}
+{"ts": 1774583515, "type": "kitchen", "uid": 3398270370, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774583539, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 32}}
+{"ts": 1774585455, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 21}}
+{"ts": 1774586075, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774586113, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774586124, "type": "achievement_unlock", "uid": 1468135138, "data": {"achievement": "美食品鉴家", "rarity": "rare"}}
+{"ts": 1774586124, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774586136, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774591031, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "3071417542", "gain": 4, "type": "half"}}
+{"ts": 1774591035, "type": "resonance", "uid": 3537761858, "data": {"score": 55, "keyword": "傲娇", "rare": false}}
+{"ts": 1774591048, "type": "meditation", "uid": 3537761858, "data": {"sp_gain": 16}}
+{"ts": 1774592589, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774602329, "type": "garden_water", "uid": 1876352760, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774607866, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774610605, "type": "meditation", "uid": 1876352760, "data": {"sp_gain": 30}}
+{"ts": 1774610634, "type": "resonance", "uid": 1876352760, "data": {"score": 12, "keyword": "治愈", "rare": false}}
+{"ts": 1774610653, "type": "meditation", "uid": 3141451467, "data": {"sp_gain": 25}}
+{"ts": 1774610743, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "晋宁老街"}}
+{"ts": 1774610873, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774611669, "type": "registry_new", "uid": 2517086769, "data": {"name": "小冰子"}}
+{"ts": 1774614759, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "晋宁老街", "sp": 5, "drops": ["神秘种子"]}}
+{"ts": 1774614759, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 10, "drops": ["嘿咻毛球"]}}
+{"ts": 1774615627, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774615786, "type": "spam_block", "uid": 3930977282, "data": {"level": "warning"}}
+{"ts": 1774619559, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "灵溪浅滩", "sp": 8, "drops": ["析沐的钥匙"]}}
+{"ts": 1774620903, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774624959, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 9, "drops": []}}

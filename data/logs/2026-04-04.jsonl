@@ -1,0 +1,6 @@
+{"ts": 1775305231, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": 50, "success": true, "taste_loss": false, "group_id": 564234162}}
+{"ts": 1775305855, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1775309547, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": ["灵心草", "神秘种子"]}}
+{"ts": 1775309879, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1775313747, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 8, "drops": ["神秘种子"]}}
+{"ts": 1775315366, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162}}

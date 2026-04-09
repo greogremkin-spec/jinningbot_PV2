@@ -1,0 +1,1499 @@
+{
+  "3141451467": {
+    "global": {
+      "altar_contributions": 1,
+      "total_heixiu_count": 6
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 1163,
+        "level": 3,
+        "items": {
+          "鸾草": 1,
+          "神秘种子": 3,
+          "灵心草": 1,
+          "法宝碎片": 1,
+          "普通嘿咻毛球": 1
+        },
+        "buffs": {
+          "丰收Lv1": true,
+          "taste_loss_active": true
+        },
+        "daily_counts": {
+          "date": "2026-04-06",
+          "meditation": 1,
+          "spirit_tide_bonus_used": false,
+          "spirit_tide_bonus_date": "",
+          "bad_streak": 1,
+          "good_streak": 0,
+          "kitchen": 2,
+          "kitchen_slots": {
+            "dinner": true,
+            "midnight": true
+          }
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "深夜修行者",
+            "name": "深夜修行者",
+            "desc": "在凌晨 0-1 点完成聚灵",
+            "rarity": "rare",
+            "date": "2026-03-30"
+          },
+          {
+            "id": "黄金传说",
+            "name": "黄金传说",
+            "desc": "捕捉到黄金嘿咻",
+            "rarity": "legendary",
+            "date": "2026-03-30"
+          },
+          {
+            "id": "彩虹猎手",
+            "name": "彩虹猎手",
+            "desc": "捕捉到彩虹嘿咻",
+            "rarity": "epic",
+            "date": "2026-03-30"
+          }
+        ],
+        "heixiu_count": 6,
+        "last_meditate_time": 1775455169.8317556,
+        "last_fortune_date": "2026-04-07",
+        "fortune_today": "小吉",
+        "garden": [
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          }
+        ],
+        "explored_locations": [
+          "晋宁老街",
+          "灵溪浅滩"
+        ],
+        "total_expedition_count": 3,
+        "last_soulmate_bonus_date": "2026-04-08",
+        "total_kitchen_count": 7,
+        "total_meditation_count": 7,
+        "total_sp_earned": 199,
+        "total_kitchen_bad": 2,
+        "total_taste_loss": 2,
+        "title_history": [
+          {
+            "level": 3,
+            "title": "引灵归宗",
+            "date": "2026-03-30"
+          }
+        ]
+      }
+    }
+  },
+  "3823258685": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 300,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0
+      }
+    }
+  },
+  "384343626": {
+    "global": {
+      "altar_contributions": 1,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 427,
+        "level": 2,
+        "items": {
+          "法宝碎片": 1,
+          "神秘种子": 2,
+          "析沐的钥匙": 1
+        },
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-04-06",
+          "meditation": 1,
+          "spirit_tide_bonus_used": false,
+          "spirit_tide_bonus_date": ""
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0,
+        "last_meditate_time": 1775446752.285967,
+        "last_fortune_date": "2026-04-06",
+        "fortune_today": "平",
+        "garden": [
+          {
+            "status": "mature",
+            "plant_name": "鸾草",
+            "water_count": 0,
+            "sow_time": 1771995426.1976292,
+            "last_water": "2026-03-02"
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          }
+        ],
+        "explored_locations": [
+          "灵溪周边"
+        ],
+        "total_expedition_count": 1,
+        "last_soulmate_bonus_date": "2026-04-05",
+        "total_meditation_count": 1,
+        "total_sp_earned": 26
+      }
+    }
+  },
+  "3930977282": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 309,
+        "level": 2,
+        "items": {
+          "神秘种子": 1
+        },
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-02-25",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0,
+        "last_meditate_time": 1771948838.5968575,
+        "explored_locations": [
+          "灵溪周边"
+        ],
+        "total_expedition_count": 1,
+        "last_fortune_date": "2026-04-08",
+        "fortune_today": "平"
+      },
+      "1092658209": {
+        "_type": "full",
+        "sp": 0,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-04-06",
+        "fortune_today": "平"
+      }
+    }
+  },
+  "3168483503": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 419,
+        "level": 2,
+        "items": {
+          "神秘种子": 4,
+          "法宝碎片": 2
+        },
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-03-04",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0,
+        "last_meditate_time": 1772634294.6961813,
+        "last_fortune_date": "2026-03-02",
+        "fortune_today": "平",
+        "garden": [
+          {
+            "status": "growing",
+            "plant_name": "灵心草",
+            "water_count": 2,
+            "sow_time": 1772244380.589513,
+            "last_water": "2026-03-04"
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          }
+        ],
+        "explored_locations": [
+          "灵溪周边"
+        ],
+        "total_expedition_count": 1
+      }
+    }
+  },
+  "2825944848": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 336,
+        "level": 2,
+        "items": {
+          "神秘种子": 3,
+          "露水凝珠": 1
+        },
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-03-21",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_meditate_time": 1774049052.1839473,
+        "last_fortune_date": "2026-02-23",
+        "fortune_today": "小吉",
+        "garden": [
+          {
+            "status": "growing",
+            "plant_name": "蓝玉果",
+            "water_count": 0,
+            "sow_time": 1772324665.8491871,
+            "last_water": "2026-03-28"
+          },
+          {
+            "status": "sprout",
+            "plant_name": "灵心草",
+            "water_count": 0,
+            "last_water": "2026-03-28",
+            "sow_time": 1774703737.8230958
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          }
+        ],
+        "explored_locations": [
+          "灵溪周边",
+          "灵溪浅滩"
+        ],
+        "total_expedition_count": 3
+      }
+    }
+  },
+  "3398270370": {
+    "global": {
+      "altar_contributions": 1,
+      "total_heixiu_count": 2
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 2251,
+        "level": 4,
+        "items": {
+          "神秘种子": 23,
+          "凤羽花": 3,
+          "灵心草": 12,
+          "蓝玉果": 2,
+          "玄清丹": 1,
+          "析沐的钥匙": 4,
+          "鸾草": 1,
+          "忘忧草": 2,
+          "引灵香": 1,
+          "法宝碎片": 6,
+          "焚的残火": 2,
+          "清心露": 1,
+          "普通嘿咻毛球": 6,
+          "聚灵花": 1
+        },
+        "buffs": {
+          "聚气 Lv1": true,
+          "聚气 MAX": true,
+          "appraise_result": {
+            "name": "回响",
+            "rarity": "normal",
+            "score": 87,
+            "duel_effect": "insight",
+            "desc": "灵质回响，神念更容易触及顿悟边缘",
+            "duel_text": "下一场演武后，你触发顿悟的概率会略有提升。",
+            "expire_mode": "next_duel",
+            "created_at": 1775411017
+          }
+        },
+        "daily_counts": {
+          "date": "2026-04-06",
+          "appraise": 3,
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "完成首次登记",
+            "rarity": "common",
+            "date": ""
+          },
+          {
+            "id": "钥匙守护者",
+            "name": "钥匙守护者",
+            "desc": "使用析沐的钥匙解锁一个灵域",
+            "rarity": "rare",
+            "date": "2026-03-22"
+          },
+          {
+            "id": "炼器学徒",
+            "name": "炼器学徒",
+            "desc": "完成首次熔炼",
+            "rarity": "common",
+            "date": "2026-03-23"
+          },
+          {
+            "id": "满园春色",
+            "name": "满园春色",
+            "desc": "同时 4 株灵植成熟并收获",
+            "rarity": "rare",
+            "date": "2026-03-29"
+          },
+          {
+            "id": "深夜修行者",
+            "name": "深夜修行者",
+            "desc": "在凌晨 0-1 点完成聚灵",
+            "rarity": "rare",
+            "date": "2026-03-30"
+          },
+          {
+            "id": "灵域先驱",
+            "name": "灵域先驱",
+            "desc": "累计派遣 50 次",
+            "rarity": "rare",
+            "date": "2026-03-30"
+          },
+          {
+            "id": "暗影幸存者",
+            "name": "暗影幸存者",
+            "desc": "被暗影嘿咻咬过",
+            "rarity": "rare",
+            "date": "2026-03-31"
+          },
+          {
+            "id": "一夜暴富",
+            "name": "一夜暴富",
+            "desc": "单次聚灵获得 50+ 灵力",
+            "rarity": "rare",
+            "date": "2026-03-31"
+          },
+          {
+            "id": "命运眷顾",
+            "name": "命运眷顾",
+            "desc": "熔炼出传说法宝",
+            "rarity": "epic",
+            "date": "2026-04-01"
+          }
+        ],
+        "heixiu_count": 2,
+        "last_fortune_date": "2026-04-06",
+        "fortune_today": "小吉",
+        "last_meditate_time": 1775471812.1204832,
+        "garden": [
+          {
+            "status": "sprout",
+            "plant_name": "凤羽花",
+            "water_count": 0,
+            "last_water": "2026-04-06",
+            "sow_time": 1775471870.3460615
+          },
+          {
+            "status": "sprout",
+            "plant_name": "鸾草",
+            "water_count": 0,
+            "last_water": "2026-04-06",
+            "sow_time": 1775471874.3205483
+          },
+          {
+            "status": "sprout",
+            "plant_name": "鸾草",
+            "water_count": 0,
+            "last_water": "2026-04-06",
+            "sow_time": 1775471878.2151966
+          },
+          {
+            "status": "sprout",
+            "plant_name": "鸾草",
+            "water_count": 0,
+            "last_water": "2026-04-06",
+            "sow_time": 1775471881.5632534
+          }
+        ],
+        "explored_locations": [
+          "灵溪周边",
+          "晋宁老街",
+          "灵溪浅滩",
+          "废弃地铁站",
+          "妖王遗迹",
+          "云隐茶楼",
+          "迷雾森林"
+        ],
+        "total_expedition_count": 71,
+        "total_meditation_count": 9,
+        "total_sp_earned": 328,
+        "unlocked_locations": [
+          "妖王遗迹"
+        ],
+        "total_smelt_count": 2,
+        "title_history": [
+          {
+            "level": 3,
+            "title": "引灵归宗",
+            "date": "2026-03-23"
+          },
+          {
+            "level": 4,
+            "title": "固灵成相",
+            "date": "2026-04-01"
+          }
+        ],
+        "total_kitchen_count": 1,
+        "total_harvest_count": 8,
+        "last_soulmate_bonus_date": "2026-03-31",
+        "total_appraise_count": 3
+      }
+    }
+  },
+  "1876352760": {
+    "global": {
+      "altar_contributions": 2,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 1139,
+        "level": 3,
+        "items": {
+          "法宝碎片": 4,
+          "神秘种子": 7,
+          "灵心草": 4,
+          "吉熙的信羽": 1,
+          "蓝玉果": 1,
+          "忘忧草": 1
+        },
+        "buffs": {
+          "聚气Lv1": true,
+          "taste_loss_active": true
+        },
+        "daily_counts": {
+          "date": "2026-04-06",
+          "meditation": 1,
+          "spirit_tide_bonus_used": false,
+          "spirit_tide_bonus_date": "",
+          "good_streak": 0,
+          "bad_streak": 2,
+          "kitchen": 2,
+          "kitchen_slots": {
+            "lunch": true,
+            "dinner": true
+          }
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "完成首次登记",
+            "rarity": "common",
+            "date": ""
+          },
+          {
+            "id": "钥匙守护者",
+            "name": "钥匙守护者",
+            "desc": "使用析沐的钥匙解锁一个灵域",
+            "rarity": "rare",
+            "date": "2026-03-28"
+          },
+          {
+            "id": "深夜修行者",
+            "name": "深夜修行者",
+            "desc": "在凌晨 0-1 点完成聚灵",
+            "rarity": "rare",
+            "date": "2026-03-29"
+          },
+          {
+            "id": "一夜暴富",
+            "name": "一夜暴富",
+            "desc": "单次聚灵获得 50+ 灵力",
+            "rarity": "rare",
+            "date": "2026-04-05"
+          }
+        ],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-04-06",
+        "fortune_today": "平",
+        "last_meditate_time": 1775408479.5724156,
+        "garden": [
+          {
+            "status": "growing",
+            "plant_name": "蓝玉果",
+            "water_count": 0,
+            "last_water": "2026-04-06",
+            "sow_time": 1774714024.3470802
+          },
+          {
+            "status": "growing",
+            "plant_name": "蓝玉果",
+            "water_count": 3,
+            "last_water": "2026-04-06",
+            "sow_time": 1773560595.5331593
+          },
+          {
+            "status": "growing",
+            "plant_name": "灵心草",
+            "water_count": 3,
+            "last_water": "2026-04-06",
+            "sow_time": 1773560603.4251504
+          },
+          {
+            "status": "growing",
+            "plant_name": "灵心草",
+            "water_count": 3,
+            "last_water": "2026-04-06",
+            "sow_time": 1773560609.7887762
+          }
+        ],
+        "explored_locations": [
+          "灵溪周边",
+          "晋宁老街",
+          "灵溪浅滩",
+          "迷雾森林",
+          "废弃地铁站"
+        ],
+        "total_expedition_count": 28,
+        "total_meditation_count": 5,
+        "total_sp_earned": 206,
+        "unlocked_locations": [
+          "迷雾森林"
+        ],
+        "last_soulmate_bonus_date": "2026-04-06",
+        "total_kitchen_count": 6,
+        "total_harvest_count": 1,
+        "title_history": [
+          {
+            "level": 3,
+            "title": "引灵归宗",
+            "date": "2026-04-05"
+          }
+        ],
+        "total_kitchen_bad": 4,
+        "total_taste_loss": 4
+      }
+    }
+  },
+  "1145912829": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 306,
+        "level": 2,
+        "items": {
+          "法宝碎片": 2,
+          "神秘种子": 4
+        },
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-02-25",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-02-25",
+        "fortune_today": "大吉",
+        "last_meditate_time": 1771949309.346026,
+        "garden": [
+          {
+            "status": "growing",
+            "plant_name": "灵心草",
+            "water_count": 0,
+            "sow_time": 1771927811.6739175,
+            "last_water": "2026-02-25"
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          }
+        ],
+        "explored_locations": [
+          "灵溪周边"
+        ],
+        "total_expedition_count": 1
+      }
+    }
+  },
+  "1468135138": {
+    "global": {
+      "altar_contributions": 4,
+      "total_heixiu_count": 1
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 1819,
+        "level": 3,
+        "items": {
+          "法宝碎片": 7,
+          "神秘种子": 2,
+          "凤羽花": 1,
+          "普通嘿咻毛球": 9,
+          "灵心草": 1
+        },
+        "buffs": {
+          "taste_loss_active": false
+        },
+        "daily_counts": {
+          "date": "2026-04-08",
+          "meditation": 1,
+          "spirit_tide_bonus_used": false,
+          "spirit_tide_bonus_date": ""
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "美食品鉴家",
+            "name": "美食品鉴家",
+            "desc": "单日连续 3 次美味",
+            "rarity": "rare",
+            "date": "2026-03-27"
+          },
+          {
+            "id": "深夜修行者",
+            "name": "深夜修行者",
+            "desc": "在凌晨 0-1 点完成聚灵",
+            "rarity": "rare",
+            "date": "2026-03-28"
+          }
+        ],
+        "heixiu_count": 1,
+        "last_fortune_date": "2026-04-08",
+        "fortune_today": "末凶",
+        "last_meditate_time": 1775656279.163039,
+        "garden": [
+          {
+            "status": "sprout",
+            "plant_name": "鸾草",
+            "water_count": 0,
+            "last_water": "2026-04-01",
+            "sow_time": 1774977172.387712
+          },
+          {
+            "status": "growing",
+            "plant_name": "忘忧草",
+            "water_count": 0,
+            "last_water": "2026-04-01",
+            "sow_time": 1774688912.3219442
+          },
+          {
+            "status": "growing",
+            "plant_name": "聚灵花",
+            "water_count": 0,
+            "last_water": "2026-04-01",
+            "sow_time": 1774688919.9471126
+          },
+          {
+            "status": "growing",
+            "plant_name": "蓝玉果",
+            "water_count": 0,
+            "last_water": "2026-04-01",
+            "sow_time": 1774688924.673285
+          }
+        ],
+        "total_meditation_count": 12,
+        "total_sp_earned": 338,
+        "total_kitchen_count": 9,
+        "explored_locations": [
+          "废弃地铁站",
+          "灵溪浅滩",
+          "晋宁老街"
+        ],
+        "total_expedition_count": 29,
+        "last_soulmate_bonus_date": "2026-04-08",
+        "total_kitchen_bad": 3,
+        "total_taste_loss": 3,
+        "title_history": [
+          {
+            "level": 3,
+            "title": "引灵归宗",
+            "date": "2026-03-30"
+          }
+        ],
+        "total_harvest_count": 1
+      }
+    }
+  },
+  "3537761858": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 598,
+        "level": 2,
+        "items": {
+          "神秘种子": 2,
+          "鸾草": 1,
+          "蓝玉果": 1
+        },
+        "buffs": {
+          "聚气Lv1": true,
+          "丰收 Lv1": true
+        },
+        "daily_counts": {
+          "date": "2026-03-30",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "完成首次登记",
+            "rarity": "common",
+            "date": ""
+          },
+          {
+            "id": "深夜修行者",
+            "name": "深夜修行者",
+            "desc": "在凌晨 0-1 点完成聚灵",
+            "rarity": "rare",
+            "date": "2026-03-30"
+          }
+        ],
+        "heixiu_count": 0,
+        "last_meditate_time": 1774803324.9014926,
+        "last_fortune_date": "2026-03-30",
+        "fortune_today": "大吉",
+        "garden": [
+          {
+            "status": "growing",
+            "plant_name": "鸾草",
+            "water_count": 0,
+            "sow_time": 1772731922.7584152,
+            "last_water": "2026-03-08"
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          },
+          {
+            "status": "empty",
+            "water_count": 0,
+            "last_water": ""
+          }
+        ],
+        "last_soulmate_bonus_date": "2026-04-07",
+        "total_meditation_count": 5,
+        "total_sp_earned": 158
+      }
+    }
+  },
+  "3790559172": {
+    "global": {
+      "altar_contributions": 1,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 74,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-04-06",
+          "meditation": 1,
+          "spirit_tide_bonus_used": false,
+          "spirit_tide_bonus_date": ""
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_meditate_time": 1775455175.8227253,
+        "total_meditation_count": 1,
+        "total_sp_earned": 31,
+        "last_fortune_date": "2026-04-06",
+        "fortune_today": "小吉"
+      }
+    }
+  },
+  "3020300956": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 30,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-02-24",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_meditate_time": 1771863302.6386864
+      }
+    }
+  },
+  "3682520557": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 60,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-03-18",
+        "fortune_today": "平"
+      }
+    }
+  },
+  "2105579083": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 100,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-03-18",
+        "fortune_today": "平"
+      }
+    }
+  },
+  "1219138963": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 100,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0
+      }
+    }
+  },
+  "3027218094": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 100,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0
+      }
+    }
+  },
+  "207489695": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 100,
+        "level": 2,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0
+      }
+    }
+  },
+  "1951672843": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 106,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-03-28",
+        "fortune_today": "平",
+        "last_soulmate_bonus_date": "2026-03-28"
+      }
+    }
+  },
+  "2102561384": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 1
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 133,
+        "level": 1,
+        "items": {},
+        "buffs": {
+          "taste_loss_active": true,
+          "taste_loss_date": "2026-04-07"
+        },
+        "daily_counts": {
+          "date": "2026-04-07",
+          "kitchen": 1,
+          "bad_streak": 1,
+          "good_streak": 0,
+          "kitchen_slots": {
+            "lunch": true
+          },
+          "kitchen_chaos_bonus_used": false,
+          "kitchen_chaos_bonus_date": ""
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 1,
+        "last_fortune_date": "2026-04-07",
+        "fortune_today": "小吉",
+        "last_soulmate_bonus_date": "2026-04-07",
+        "total_kitchen_bad": 2,
+        "total_taste_loss": 2,
+        "total_kitchen_count": 2
+      }
+    }
+  },
+  "635799803": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 1
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 75,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-03-25",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 1,
+        "last_meditate_time": 1774412476.646432,
+        "total_meditation_count": 1,
+        "total_sp_earned": 15
+      }
+    }
+  },
+  "3392950858": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 28,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-03-21",
+          "meditation": 1
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-03-21",
+        "fortune_today": "中吉",
+        "last_meditate_time": 1774063047.7553144
+      }
+    }
+  },
+  "1320739055": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 0,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_fortune_date": "2026-04-08",
+        "fortune_today": "小吉"
+      }
+    }
+  },
+  "1255989821": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 10,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-03-21",
+          "kitchen": 4,
+          "bad_streak": 1,
+          "good_streak": 0
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "last_soulmate_bonus_date": "2026-03-26"
+      }
+    }
+  },
+  "2517086769": {
+    "global": {
+      "altar_contributions": 2,
+      "total_heixiu_count": 1
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 209,
+        "level": 2,
+        "items": {},
+        "buffs": {
+          "taste_loss_active": true
+        },
+        "daily_counts": {
+          "date": "2026-04-06",
+          "meditation": 1,
+          "spirit_tide_bonus_used": false,
+          "spirit_tide_bonus_date": ""
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "完成首次登记",
+            "rarity": "common",
+            "date": ""
+          },
+          {
+            "id": "深夜修行者",
+            "name": "深夜修行者",
+            "desc": "在凌晨 0-1 点完成聚灵",
+            "rarity": "rare",
+            "date": "2026-03-29"
+          }
+        ],
+        "heixiu_count": 1,
+        "join_date": "2026-03-27",
+        "total_meditation_count": 3,
+        "total_sp_earned": 74,
+        "total_kitchen_count": 7,
+        "total_expedition_count": 0,
+        "title_history": [
+          {
+            "level": 1,
+            "title": "灵识觉醒",
+            "date": "2026-03-27"
+          },
+          {
+            "level": 2,
+            "title": "聚灵化息",
+            "date": "2026-03-28"
+          }
+        ],
+        "last_soulmate_bonus_date": "2026-03-29",
+        "last_fortune_date": "2026-04-06",
+        "fortune_today": "平",
+        "total_kitchen_bad": 4,
+        "total_taste_loss": 4,
+        "last_meditate_time": 1775408869.9278154
+      }
+    }
+  },
+  "1464135138": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 60,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [
+          {
+            "id": "初探灵界",
+            "name": "初探灵界",
+            "desc": "",
+            "rarity": "common",
+            "date": ""
+          }
+        ],
+        "heixiu_count": 0,
+        "join_date": "2026-03-28",
+        "total_meditation_count": 0,
+        "total_sp_earned": 0,
+        "total_kitchen_count": 0,
+        "total_expedition_count": 0,
+        "title_history": [
+          {
+            "level": 1,
+            "title": "灵识觉醒",
+            "date": "2026-03-28"
+          }
+        ]
+      }
+    }
+  },
+  "1499674474": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 50,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {
+          "date": "2026-03-28",
+          "kitchen": 1,
+          "bad_streak": 0,
+          "good_streak": 1,
+          "kitchen_slots": {}
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "total_kitchen_count": 1
+      }
+    }
+  },
+  "1713313967": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 1
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 0,
+        "level": 1,
+        "items": {},
+        "buffs": {},
+        "daily_counts": {},
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 1
+      }
+    }
+  },
+  "3085699956": {
+    "global": {
+      "altar_contributions": 0,
+      "total_heixiu_count": 0
+    },
+    "group_data": {
+      "564234162": {
+        "_type": "full",
+        "sp": 0,
+        "level": 1,
+        "items": {},
+        "buffs": {
+          "taste_loss_active": true,
+          "taste_loss_date": "2026-04-06"
+        },
+        "daily_counts": {
+          "date": "2026-04-06",
+          "kitchen": 1,
+          "bad_streak": 1,
+          "good_streak": 0,
+          "kitchen_slots": {
+            "midnight": true
+          },
+          "kitchen_chaos_bonus_used": false,
+          "kitchen_chaos_bonus_date": ""
+        },
+        "expedition": {
+          "status": "idle"
+        },
+        "achievements": [],
+        "heixiu_count": 0,
+        "total_taste_loss": 1,
+        "total_kitchen_bad": 1,
+        "total_kitchen_count": 1
+      }
+    }
+  }
+}

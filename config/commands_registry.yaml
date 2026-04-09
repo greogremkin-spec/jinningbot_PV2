@@ -1,0 +1,405 @@
+# ================================================================
+# ⚠ 本文件已废弃，仅供历史参考
+# 运行时指令注册由 src/common/command_registry.py 控制
+# 请勿依赖本文件进行任何判断
+# ================================================================
+# 本文件是声明式文档，供项目管理参考。
+# 实际运行时的指令注册由 src/common/command_registry.py 控制。
+#
+# 字段说明：
+#   slash: /指令触发词
+#   text: 纯文字触发词（严格全文匹配）
+#   min_tier: 最低群等级 (core / allied / public)
+#   require_registered: 是否需要已登记
+#   admin_only: 是否仅管理组可用
+#   core_only: 是否馆内专属
+# ================================================================
+
+# ==================== 📋 行政 ====================
+admin:
+  登记引导:
+    slash: ["登记", "在馆登记"]
+    text: ["登记", "在馆登记"]
+    min_tier: "allied"
+    require_registered: false
+    full_name: "灵册大厅 · 在馆人员登记"
+    description: "录入灵力档案，成为在册妖灵"
+
+  提交登记:
+    slash: ["在馆人员登记"]
+    text: []
+    min_tier: "allied"
+    require_registered: false
+    full_name: "灵册大厅 · 档案提交"
+    description: "提交填写好的登记表单"
+
+  个人档案:
+    slash: ["档案", "我的档案", "个人信息", "状态"]
+    text: ["档案", "我的档案", "状态"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "灵册大厅 · 妖灵档案"
+    description: "查看个人修行面板"
+
+  查看名单:
+    slash: ["查看名单", "名单"]
+    text: ["查看名单"]
+    min_tier: "core"
+    admin_only: true
+    full_name: "灵册大厅 · 在馆名单"
+    description: "查看全部在册人员"
+
+  修改数值:
+    slash: ["修改", "改数值"]
+    text: []
+    min_tier: "core"
+    admin_only: true
+    full_name: "管理指令 · 数值修改"
+    description: "修改指定成员的属性"
+
+  发放物品:
+    slash: ["发放", "发东西"]
+    text: []
+    min_tier: "core"
+    admin_only: true
+    full_name: "管理指令 · 物品发放"
+    description: "给指定成员发放道具"
+
+  除名:
+    slash: ["删除名单", "除名"]
+    text: []
+    min_tier: "core"
+    admin_only: true
+    full_name: "管理指令 · 除名"
+    description: "将成员从名单中移除"
+
+# ==================== 🧘 修行 ====================
+cultivation:
+  聚灵:
+    slash: ["聚灵", "聚灵修行"]
+    text: ["聚灵", "聚灵修行"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "聚灵台 · 灵质修行"
+    description: "汲取天地灵气，每日修行"
+
+  求签:
+    slash: ["求签", "每日灵签"]
+    text: ["求签", "每日灵签"]
+    min_tier: "public"
+    require_registered: false
+    full_name: "聚灵台 · 每日灵签"
+    description: "今日运势宜忌"
+
+  派遣:
+    slash: ["派遣", "妖灵派遣", "灵风传送"]
+    text: ["派遣"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "灵风传送 · 妖灵派遣"
+    description: "探索九大灵域"
+
+  召回:
+    slash: ["召回", "强制召回"]
+    text: ["召回", "强制召回"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "灵风传送 · 强制召回"
+    description: "中止探索，召回灵体"
+
+  药圃:
+    slash: ["药圃", "我的药圃"]
+    text: ["药圃", "我的药圃"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "妖灵药圃 · 灵植小院"
+    description: "查看四块灵田状态"
+
+  播种:
+    slash: ["播种"]
+    text: ["播种"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "妖灵药圃 · 播种"
+    description: "消耗种子种下灵植"
+
+  灌溉:
+    slash: ["灌溉", "浇水"]
+    text: ["灌溉", "浇水"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "妖灵药圃 · 灌溉"
+    description: "为灵植浇灌灵泉"
+
+  收获:
+    slash: ["收获"]
+    text: ["收获"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "妖灵药圃 · 收获"
+    description: "采摘成熟灵植"
+
+  背包:
+    slash: ["背包", "我的背包", "储物袋"]
+    text: ["背包", "我的背包", "储物袋"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "灵质空间 · 储物袋"
+    description: "查看道具一览"
+
+  使用道具:
+    slash: ["使用"]
+    text: ["使用"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "灵质空间 · 道具使用"
+    description: "使用背包中的道具"
+
+  熔炼:
+    slash: ["熔炼", "法宝熔炼"]
+    text: ["熔炼", "法宝熔炼"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "君阁工坊 · 法宝熔炼"
+    description: "法宝碎片重铸"
+
+  图鉴:
+    slash: ["图鉴", "道具图鉴"]
+    text: ["图鉴"]
+    min_tier: "allied"
+    require_registered: false
+    full_name: "道具图鉴"
+    description: "查看道具碎碎念描述"
+
+  解锁灵域:
+    slash: ["解锁", "解锁灵域"]
+    text: ["解锁"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "析沐的钥匙 · 灵域解锁"
+    description: "使用析沐的钥匙解锁灵域"
+
+  祭坛:
+    slash: ["祭坛", "催更祭坛"]
+    text: ["祭坛", "催更祭坛"]
+    min_tier: "core"
+    core_only: true
+    full_name: "木头的催更祭坛"
+    description: "全馆怨念汇聚之地"
+
+  成就:
+    slash: ["成就", "我的成就"]
+    text: ["我的成就"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "会馆成就系统"
+    description: "查看已解锁的成就"
+
+  称号:
+    slash: ["称号", "我的称号"]
+    text: ["我的称号"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "称号系统"
+    description: "佩戴解锁的称号"
+
+  排行榜:
+    slash: ["排行榜", "排行", "榜单"]
+    text: ["排行榜"]
+    min_tier: "allied"
+    require_registered: false
+    full_name: "晋宁会馆 · 排行榜"
+    description: "灵力/嘿咻/聚灵/厨房/派遣多榜"
+
+  世界事件:
+    slash: ["世界事件", "事件", "灵潮"]
+    text: ["世界事件"]
+    min_tier: "allied"
+    require_registered: false
+    full_name: "世界事件 · 实时监控"
+    description: "查看当前活跃事件"
+
+# ==================== 🎮 娱乐 ====================
+entertainment:
+  厨房:
+    slash: ["厨房", "厨房挑战", "厨房生存战"]
+    text: ["厨房", "厨房挑战", "厨房生存战"]
+    min_tier: "public"
+    require_registered: false
+    full_name: "无限大人的厨房生存挑战"
+    description: "赌上味蕾的一餐"
+
+  鉴定:
+    slash: ["鉴定", "灵质鉴定"]
+    text: ["鉴定", "灵力鉴定"]
+    min_tier: "public"
+    require_registered: false
+    full_name: "晋宁会馆 · 灵质鉴定"
+    description: "检测灵力纯度与隐藏属性"
+
+  切磋:
+    slash: ["切磋", "灵力切磋", "PK", "领域较量"]
+    text: ["切磋"]
+    min_tier: "allied"
+    require_registered: true
+    full_name: "灵质空间 · 演武场"
+    description: "与其他妖灵灵力比拼"
+
+  捕捉嘿咻:
+    slash: ["捕捉", "捕捉嘿咻"]
+    text: ["捕捉", "捕捉嘿咻"]
+    min_tier: "allied"
+    require_registered: false
+    full_name: "嘿咻捕获计划"
+    description: "野生嘿咻出没时发送捕捉"
+
+  真心话:
+    slash: ["真心话"]
+    text: []
+    min_tier: "public"
+    require_registered: false
+    full_name: "真心话大冒险 · 灵力诚实探测"
+    description: "随机一道真心话题目"
+
+  大冒险:
+    slash: ["大冒险"]
+    text: []
+    min_tier: "public"
+    require_registered: false
+    full_name: "真心话大冒险 · 灵压勇气挑战"
+    description: "随机一道冒险任务"
+
+  今日灵伴:
+    slash: ["灵伴", "今日灵伴"]
+    text: ["今日灵伴"]
+    min_tier: "allied"
+    require_registered: false
+    full_name: "灵力宿命 · 今日灵伴"
+    description: "每日灵力共鸣匹配"
+
+  今日老婆:
+    slash: ["今日老婆", "群友老婆"]
+    text: ["今日老婆"]
+    min_tier: "public"
+    require_registered: false
+    full_name: "今日老婆 · 致敬萝卜"
+    description: "从群成员中随机匹配（隐藏彩蛋）"
+    hidden: true
+
+  退出彩蛋:
+    slash: []
+    text: ["退出此群"]
+    min_tier: "public"
+    require_registered: false
+    full_name: "退出彩蛋 · 致敬萝卜"
+    description: "致敬萝卜前辈（隐藏彩蛋）"
+    hidden: true
+
+# ==================== 📖 引导类 ====================
+guide:
+  菜单:
+    slash: ["菜单"]
+    text: ["菜单"]
+    min_tier: "public"
+    full_name: "功能菜单"
+    description: "查看所有功能"
+
+  板块菜单:
+    slash: ["行政板块", "修行板块", "娱乐板块"]
+    text: ["行政板块", "修行板块", "娱乐板块"]
+    min_tier: "public"
+    full_name: "板块菜单"
+    description: "查看指定板块详细指令"
+
+  说明:
+    slash: ["说明", "规则"]
+    text: ["说明"]
+    min_tier: "public"
+    full_name: "功能说明"
+    description: "查看指定功能的详细规则"
+
+  关于:
+    slash: ["关于"]
+    text: []
+    min_tier: "public"
+    full_name: "关于晋宁会馆"
+    description: "了解会馆缘起与愿景"
+
+  加入引导:
+    slash: []
+    text: ["加入会馆", "加入晋宁", "加入晋宁会馆"]
+    min_tier: "public"
+    full_name: "加入引导"
+    description: "如何加入晋宁会馆"
+
+# ==================== 🖥 系统管理 ====================
+console:
+  切换人格:
+    slash: ["切换人格", "变身", "切换模式"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 人格切换"
+    description: "切换秃贝的性格模式"
+
+  系统状态:
+    slash: ["系统状态", "查看状态"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 系统状态"
+    description: "查看系统运行数据"
+
+  全员广播:
+    slash: ["全员广播", "广播", "公告"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 全员广播"
+    description: "向所有核心群发送公告"
+
+  封印:
+    slash: ["封印", "关小黑屋"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 封印"
+    description: "封禁指定用户的灵力回路"
+
+  全员福利:
+    slash: ["全员福利", "发红包"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 全员福利"
+    description: "向全体成员发放灵力或道具"
+
+  重载配置:
+    slash: ["重载配置", "刷新配置", "reload"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 重载配置"
+    description: "热重载文案和数值配置"
+
+  强制保存:
+    slash: ["强制保存", "保存数据", "save"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 强制保存"
+    description: "立即将内存数据写入磁盘"
+
+  宣传开关:
+    slash: ["宣传开关"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 宣传开关"
+    description: "开启或关闭宣传功能"
+
+  宣传内容:
+    slash: ["宣传内容"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 宣传内容"
+    description: "设置宣传文案内容"
+
+  宣传概率:
+    slash: ["宣传概率"]
+    text: []
+    decision_only: true
+    full_name: "控制台 · 宣传概率"
+    description: "设置宣传触发概率"

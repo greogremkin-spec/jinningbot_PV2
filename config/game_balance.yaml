@@ -1,0 +1,621 @@
+# ================================================================
+# 晋宁会馆·秃贝五边形 5.0 | 数值平衡配置（第三阶段最终补充版）
+# ================================================================
+
+# ==================== 基础设置 ====================
+initial_sp: 60
+unregistered_sp_cap: 99
+
+# ==================== 等级系统 ====================
+levels:
+  thresholds:
+    1: 0
+    2: 100
+    3: 800
+    4: 2000
+    5: 5000
+    6: 15000
+    7: 40000
+  titles:
+    1: "灵识觉醒"
+    2: "聚灵化息"
+    3: "引灵归宗"
+    4: "固灵成相"
+    5: "御灵镇域"
+    6: "化灵通神"
+    7: "万灵归一"
+
+# ==================== 聚灵修行 ====================
+meditation:
+  base_min: 10
+  base_max: 30
+  cooldown: 60
+  daily_limit: 1
+  level_bonus:
+    lv1: 0
+    lv2: 2
+    lv3: 5
+    lv4: 8
+    lv5: 10
+    lv6: 15
+    lv7: 20
+
+# ==================== 灵签系统 ====================
+fortune:
+  names: ["大吉", "中吉", "小吉", "平", "末凶"]
+  weights: [0.10, 0.15, 0.30, 0.40, 0.05]
+  mults:
+    大吉: 0.5
+    中吉: 0.2
+    小吉: 0.1
+    平: 0.0
+    末凶: -0.1
+
+# ==================== 厨房系统 ====================
+kitchen:
+  reward_sp: 50
+  penalty_sp: 10
+  success_rate: 0.30
+  daily_limit: 4
+  # 注意：第三阶段逻辑上已改为“餐次型味蕾丧失”，
+  # 此字段仅作历史兼容保留，不再作为主逻辑依据
+  taste_loss_duration: 7200
+  taste_loss_sp: 2
+  bad_streak_bonus_2: 0.3
+  bad_streak_bonus_3: 1.0
+  meal_times:
+    - [6, 9]
+    - [11, 14]
+    - [16, 21]
+    - [22, 24]
+  menu_good:
+    - "清蒸灵溪鱼"
+    - "发光蛋炒饭"
+    - "若木果沙拉"
+    - "云雾灵芝汤"
+    - "晋宁烤肉串"
+    - "灵泉豆花"
+    - "翡翠灵菇煲"
+    - "星辉蜜饯"
+    - "月光寒梅糕"
+    - "碧波龙须面"
+  menu_bad:
+    - "虚空拉面"
+    - "仰望星空派"
+    - "焦炭牛排"
+    - "生化纳豆"
+    - "神秘紫汤"
+    - "暗物质炒饭"
+    - "尖叫鸡翅"
+    - "灵压过载蛋糕"
+    - "深渊火锅底料"
+    - "时空扭曲寿司"
+
+# ==================== 祭坛系统 ====================
+altar:
+  tax_rate: 0.01
+  trigger_threshold: 1000
+  buff_duration: 86400
+  buff_bonus: 5
+
+# ==================== 派遣系统 ====================
+expedition:
+  recall_penalty: 5
+  locations:
+    晋宁老街:
+      level: 2
+      time: 3600
+      sp_min: 5
+      sp_max: 15
+      desc: "充满烟火气的老城区，街角杂货铺偶尔收购妖灵遗物。"
+      drops:
+        神秘种子: 0.35
+        法宝碎片: 0.15
+        析沐的钥匙: 0.03
+        吉熙的信羽: 0.005
+        焚的残火: 0.005
+
+    灵溪浅滩:
+      level: 2
+      time: 3600
+      sp_min: 8
+      sp_max: 12
+      desc: "城郊的溪流，水草丰茂，适合初学者感受灵气。"
+      drops:
+        灵心草: 0.20
+        神秘种子: 0.25
+        露水凝珠: 0.15
+        析沐的钥匙: 0.03
+        吉熙的信羽: 0.005
+        焚的残火: 0.005
+
+    废弃地铁站:
+      level: 2
+      time: 3600
+      sp_min: 5
+      sp_max: 10
+      desc: "未完工的地下站点，阴暗潮湿，嘿咻喜欢藏在角落。"
+      drops:
+        法宝碎片: 0.30
+        神秘种子: 0.10
+        析沐的钥匙: 0.03
+        吉熙的信羽: 0.005
+        焚的残火: 0.005
+
+    云隐茶楼:
+      level: 4
+      time: 14400
+      sp_min: 15
+      sp_max: 30
+      desc: "妖灵常去的茶馆，能打听消息，偶尔有人兜售法宝。"
+      drops:
+        涪灵丹: 0.20
+        鸾草: 0.15
+        法宝碎片: 0.30
+        清心露: 0.10
+        析沐的钥匙: 0.015
+        吉熙的信羽: 0.015
+        焚的残火: 0.015
+
+    古寺后山:
+      level: 4
+      time: 14400
+      sp_min: 20
+      sp_max: 35
+      desc: "香火断绝的古庙后山，灵气浓郁但游荡着不安分的灵体。"
+      drops:
+        玄清丹: 0.15
+        护身符: 0.10
+        法宝碎片: 0.25
+        神秘种子: 0.20
+        析沐的钥匙: 0.015
+        吉熙的信羽: 0.015
+        焚的残火: 0.015
+
+    迷雾森林:
+      level: 4
+      time: 14400
+      sp_min: 18
+      sp_max: 28
+      desc: "常年大雾的原始林地，容易迷路，却生长着珍稀草药。"
+      drops:
+        蓝玉果: 0.15
+        灵心草: 0.25
+        凤羽花: 0.10
+        忘忧草: 0.15
+        析沐的钥匙: 0.015
+        吉熙的信羽: 0.015
+        焚的残火: 0.015
+
+    镜中世界:
+      level: 6
+      time: 28800
+      sp_min: 40
+      sp_max: 65
+      desc: "现实世界的倒影空间，法则混乱，高手才能安全穿行。"
+      drops:
+        空间简片: 0.25
+        虚空结晶: 0.10
+        法宝碎片: 0.40
+        玄清丹: 0.15
+        析沐的钥匙: 0.005
+        吉熙的信羽: 0.03
+        焚的残火: 0.03
+
+    龙脉节点:
+      level: 6
+      time: 28800
+      sp_min: 45
+      sp_max: 70
+      desc: "晋宁地脉汇聚之处，灵压极强，久留会灵力失控。"
+      drops:
+        完整天明珠: 0.03
+        五行灵核: 0.08
+        法宝碎片: 0.35
+        蓝玉果: 0.15
+        析沐的钥匙: 0.005
+        吉熙的信羽: 0.03
+        焚的残火: 0.03
+
+    妖王遗迹:
+      level: 6
+      time: 28800
+      sp_min: 50
+      sp_max: 80
+      desc: "传说中上古妖王留下的洞府，危险与机遇并存。"
+      drops:
+        凤羽花: 0.20
+        上古秘卷: 0.05
+        完整天明珠: 0.02
+        法宝碎片: 0.30
+        析沐的钥匙: 0.005
+        吉熙的信羽: 0.03
+        焚的残火: 0.03
+
+# ==================== 药圃系统 ====================
+garden:
+  slot_count: 4
+  plants:
+    灵心草: "下次聚灵总收益×1.5"
+    鸾草: "下次鉴定必出稀有词条"
+    蓝玉果: "下次聚灵基础值锁定最大值"
+    凤羽花: "下次派遣必掉落法宝碎片"
+    忘忧草: "立即消除[味蕾丧失]状态"
+    聚灵花: "使用后立即获得 15 灵力"
+  growth:
+    seed_to_sprout: 1
+    sprout_to_growing: 2
+    growing_to_mature: 5
+  icons:
+    empty: "⬜"
+    seed: "🌱"
+    sprout: "🌿"
+    growing: "🪴"
+    mature: "✨"
+
+# ==================== 鉴定系统（第三阶段定稿版） ====================
+resonance:
+  appraise_cost: 2
+  rare_chance: 0.05
+
+# ==================== 切磋 / 演武系统（第三阶段定稿版） ====================
+duel:
+  power_fluctuation: 0.2
+  steal_rate: 0.01
+  steal_cap: 20
+  protection_threshold: 50
+  daily_limit: 3
+  enlighten_base_chance: 0.15
+
+# ==================== 嘿咻系统（第三阶段定稿版） ====================
+heixiu:
+  spawn_interval_hours: 18
+  spawn_jitter: 18000
+  catch_success_rate: 0.80
+  escape_timeout: 60
+  type_weights:
+    normal: 85
+    rainbow: 8
+    golden: 5
+    shadow: 2
+  rewards:
+    normal:
+      sp: 0
+      items: {}
+      announcement: false
+    rainbow:
+      sp: 30
+      items: {}
+      announcement: true
+    golden:
+      sp: 100
+      items: {}
+      announcement: true
+    shadow:
+      sp: -10
+      items:
+        神秘种子: 2
+      announcement: false
+  fur_drop:
+    normal:
+      item: "普通嘿咻毛球"
+      chance: 0.15
+    rainbow:
+      item: "彩虹嘿咻毛球"
+      chance: 0.25
+    golden:
+      item: "黄金嘿咻毛球"
+      chance: 0.45
+    shadow:
+      item: "暗影嘿咻毛球"
+      chance: 0.10
+
+# ==================== 毛球系统（第三阶段定稿版） ====================
+heixiu_fur:
+  warning_threshold: 10
+  disappear_rates:
+    "11": 0.12
+    "12": 0.18
+    "13": 0.25
+    "14": 0.35
+    "default_after": 0.50
+  roll_weights:
+    sp_gain: 0.60
+    cleanse_taste_loss: 0.03
+    special_drop: 0.08
+    comfort_only: 0.29
+  drop_pools:
+    普通嘿咻毛球:
+      drop_chance: 0.08
+      drops:
+        - ["神秘种子", 1]
+        - ["法宝碎片", 1]
+        - ["灵心草", 1]
+    彩虹嘿咻毛球:
+      drop_chance: 0.10
+      drops:
+        - ["蓝玉果", 1]
+        - ["鸾草", 1]
+        - ["空间简片", 1]
+    黄金嘿咻毛球:
+      drop_chance: 0.12
+      drops:
+        - ["凤羽花", 1]
+        - ["万宝如意", 1]
+        - ["玄清丹", 1]
+    暗影嘿咻毛球:
+      drop_chance: 0.09
+      drops:
+        - ["忘忧草", 1]
+        - ["清心露", 1]
+        - ["法宝碎片", 2]
+
+# ==================== 法宝熔炼 ====================
+smelting:
+  cost: 10
+  tiers:
+    normal:
+      rate: 0.45
+      pool: ["涪灵丹", "护身符", "清心露"]
+    rare:
+      rate: 0.35
+      pool: ["空间简片", "玄清丹", "灵心草", "万宝如意"]
+    legendary:
+      rate: 0.15
+      pool: ["完整天明珠", "引灵香", "上古秘卷"]
+    easter_egg:
+      rate: 0.05
+      pool: ["破碎星核", "混沌残片"]
+
+# ==================== 世界事件 ====================
+world_events:
+  spirit_tide:
+    name: "灵潮爆发"
+    desc: "天地灵气异常涌动"
+    effect: "聚灵收益 +30%"
+    bonus: 0.30
+    duration: 7200
+    daily_chance: 0.6
+    min_hour: 10
+    max_hour: 22
+
+  heixiu_frenzy:
+    name: "嘿咻暴动"
+    desc: "大量嘿咻涌入会馆"
+    effect: "每 30 分钟刷一只嘿咻，持续 2 小时"
+    spawn_interval: 1800
+    duration: 7200
+    daily_chance: 0.3
+    min_hour: 14
+    max_hour: 20
+
+  kitchen_chaos:
+    name: "无限失控"
+    desc: "无限大人的灵力暴走了"
+    effect: "厨房全部变为绝世珍馐，持续 1 小时"
+    duration: 3600
+    daily_chance: 0.2
+    min_hour: 11
+    max_hour: 21
+
+# ==================== 系统风控 ====================
+security:
+  spam_threshold: 10
+  ban_duration: 600
+  sleep_start: 1
+  sleep_end: 5
+  random_chat_rate: 0.03
+  random_chat_min_length: 12
+
+# ==================== 成就系统（第三阶段最终补充版） ====================
+achievements:
+  初探灵界:
+    desc: "完成首次登记"
+    rarity: "common"
+    title: null
+
+  修行不辍:
+    desc: "累计聚灵 30 次"
+    rarity: "common"
+    title: null
+    check_type: "stat_gte"
+    check_field: "total_meditation_count"
+    check_value: 30
+
+  灵气如渊:
+    desc: "累计聚灵 100 次"
+    rarity: "rare"
+    title: "百日修行者"
+    check_type: "stat_gte"
+    check_field: "total_meditation_count"
+    check_value: 100
+
+  一夜暴富:
+    desc: "单次聚灵获得 50+ 灵力"
+    rarity: "rare"
+    title: null
+    check_type: "manual"
+
+  美食品鉴家:
+    desc: "单日连续 3 次美味"
+    rarity: "rare"
+    title: "美食品鉴家"
+    check_type: "manual"
+
+  铁胃勇者:
+    desc: "累计味蕾丧失 10 次"
+    rarity: "common"
+    title: "铁胃勇者"
+    check_type: "stat_gte"
+    check_field: "total_taste_loss"
+    check_value: 10
+
+  无限的受害者:
+    desc: "累计吃黑暗料理 50 次"
+    rarity: "rare"
+    title: "无限的受害者"
+    check_type: "stat_gte"
+    check_field: "total_kitchen_bad"
+    check_value: 50
+
+  嘿咻牧场主:
+    desc: "累计捕捉 10 次嘿咻"
+    rarity: "rare"
+    title: "嘿咻牧场主"
+    check_type: "stat_gte"
+    check_field: "heixiu_count"
+    check_value: 10
+
+  彩虹猎手:
+    desc: "捕捉到彩虹嘿咻"
+    rarity: "epic"
+    title: "彩虹猎手"
+    check_type: "manual"
+
+  黄金传说:
+    desc: "捕捉到黄金嘿咻"
+    rarity: "legendary"
+    title: "黄金传说"
+    check_type: "manual"
+
+  暗影幸存者:
+    desc: "被暗影嘿咻咬过"
+    rarity: "rare"
+    title: null
+    check_type: "manual"
+
+  炼器学徒:
+    desc: "完成首次熔炼"
+    rarity: "common"
+    title: null
+    check_type: "stat_gte"
+    check_field: "total_smelt_count"
+    check_value: 1
+
+  命运眷顾:
+    desc: "熔炼出传说法宝"
+    rarity: "epic"
+    title: "天选炼器师"
+    check_type: "manual"
+
+  否极泰来:
+    desc: "触发熔炉彩蛋"
+    rarity: "legendary"
+    title: "否极泰来"
+    check_type: "manual"
+
+  晋宁旅者:
+    desc: "探索过全部 9 个区域"
+    rarity: "epic"
+    title: "晋宁旅者"
+    check_type: "manual"
+
+  灵域先驱:
+    desc: "累计派遣 50 次"
+    rarity: "rare"
+    title: null
+    check_type: "stat_gte"
+    check_field: "total_expedition_count"
+    check_value: 50
+
+  灵植大师:
+    desc: "累计收获 50 株灵植"
+    rarity: "rare"
+    title: "灵植大师"
+    check_type: "stat_gte"
+    check_field: "total_harvest_count"
+    check_value: 50
+
+  满园春色:
+    desc: "同时 4 株灵植成熟并收获"
+    rarity: "rare"
+    title: null
+    check_type: "manual"
+
+  演武达人:
+    desc: "切磋胜利 10 次"
+    rarity: "rare"
+    title: "演武达人"
+    check_type: "stat_gte"
+    check_field: "total_duel_wins"
+    check_value: 10
+
+  深夜修行者:
+    desc: "在凌晨 0-1 点完成聚灵"
+    rarity: "rare"
+    title: "深夜修行者"
+    check_type: "manual"
+
+  会馆元老:
+    desc: "注册满 30 天"
+    rarity: "rare"
+    title: "会馆元老"
+    check_type: "manual"
+
+  钥匙守护者:
+    desc: "使用析沐的钥匙解锁一个灵域"
+    rarity: "rare"
+    title: "钥匙守护者"
+    check_type: "manual"
+
+  吉祥之人:
+    desc: "使用吉熙的信羽获得吉兆祝福"
+    rarity: "rare"
+    title: "吉祥之人"
+    check_type: "manual"
+
+  焚之眷顾:
+    desc: "使用焚的残火纯化灵力"
+    rarity: "epic"
+    title: "焚之眷顾"
+    check_type: "manual"
+
+  毛茸茸成瘾:
+    desc: "累计抚摸毛球 30 次"
+    rarity: "common"
+    title: null
+    check_type: "stat_gte"
+    check_field: "total_fur_pet_count"
+    check_value: 30
+
+  毛球依赖症:
+    desc: "累计抚摸毛球 100 次"
+    rarity: "rare"
+    title: "毛球依赖者"
+    check_type: "stat_gte"
+    check_field: "total_fur_pet_count"
+    check_value: 100
+
+  手下留毛:
+    desc: "第一次把毛球揉散"
+    rarity: "common"
+    title: null
+    check_type: "manual"
+
+  越战越悟:
+    desc: "在演武后首次触发顿悟"
+    rarity: "rare"
+    title: "演武悟者"
+    check_type: "manual"
+
+  顿悟常客:
+    desc: "累计触发 10 次顿悟"
+    rarity: "epic"
+    title: "常悟之人"
+    check_type: "stat_gte"
+    check_field: "total_duel_enlighten"
+    check_value: 10
+
+  灵质通明:
+    desc: "完成 20 次灵质鉴定"
+    rarity: "rare"
+    title: "鉴质者"
+    check_type: "stat_gte"
+    check_field: "total_appraise_count"
+    check_value: 20
+
+  稀有灵质:
+    desc: "首次鉴定出稀有灵质"
+    rarity: "rare"
+    title: null
+    check_type: "manual"

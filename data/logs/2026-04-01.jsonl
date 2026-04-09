@@ -1,0 +1,81 @@
+{"ts": 1774972803, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774976992, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 5, "drops": []}}
+{"ts": 1774977080, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 27}}
+{"ts": 1774977086, "type": "garden_water", "uid": 1468135138, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774977105, "type": "soulmate_resonance", "uid": 1468135138, "data": {"partner": "3537761858", "gain": 34, "type": "full"}}
+{"ts": 1774977145, "type": "garden_harvest", "uid": 1468135138, "data": {"items": ["凤羽花"]}}
+{"ts": 1774977177, "type": "garden_water", "uid": 1468135138, "data": {"count": 1, "dew_used": false}}
+{"ts": 1774977627, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "3611544773", "gain": 2, "type": "half"}}
+{"ts": 1774995706, "type": "heixiu_capture", "uid": 1468135138, "data": {"type": "normal", "success": false}}
+{"ts": 1775001592, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 52, "drops": ["凤羽花", "法宝碎片"]}}
+{"ts": 1775006664, "type": "achievement_unlock", "uid": 3398270370, "data": {"achievement": "命运眷顾", "rarity": "epic"}}
+{"ts": 1775006718, "type": "resonance", "uid": 3398270370, "data": {"score": 76, "keyword": "暴走", "rare": false}}
+{"ts": 1775006724, "type": "resonance", "uid": 3398270370, "data": {"score": 84, "keyword": "天然呆", "rare": false}}
+{"ts": 1775006729, "type": "resonance", "uid": 3398270370, "data": {"score": 74, "keyword": "阳光", "rare": false}}
+{"ts": 1775006737, "type": "resonance", "uid": 3398270370, "data": {"score": 11, "keyword": "暴走", "rare": false}}
+{"ts": 1775006745, "type": "resonance", "uid": 3398270370, "data": {"score": 71, "keyword": "傲娇", "rare": false}}
+{"ts": 1775006751, "type": "resonance", "uid": 3398270370, "data": {"score": 93, "keyword": "咸鱼", "rare": false}}
+{"ts": 1775006756, "type": "resonance", "uid": 3398270370, "data": {"score": 95, "keyword": "咸鱼", "rare": false}}
+{"ts": 1775006768, "type": "resonance", "uid": 3398270370, "data": {"score": 95, "keyword": "深沉", "rare": false}}
+{"ts": 1775006787, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1775010592, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 9, "drops": ["法宝碎片", "析沐的钥匙"]}}
+{"ts": 1775011634, "type": "resonance", "uid": 3398270370, "data": {"score": 52, "keyword": "腹黑", "rare": false}}
+{"ts": 1775011639, "type": "resonance", "uid": 3398270370, "data": {"score": 48, "keyword": "阳光", "rare": false}}
+{"ts": 1775011649, "type": "resonance", "uid": 3398270370, "data": {"score": 92, "keyword": "阳光", "rare": false}}
+{"ts": 1775011656, "type": "resonance", "uid": 3398270370, "data": {"score": 46, "keyword": "阳光", "rare": false}}
+{"ts": 1775011664, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1775015392, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 12, "drops": ["焚的残火"]}}
+{"ts": 1775015585, "type": "resonance", "uid": 3398270370, "data": {"score": 98, "keyword": "清澄", "rare": false}}
+{"ts": 1775015601, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1775019592, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 9, "drops": ["法宝碎片", "焚的残火"]}}
+{"ts": 1775019639, "type": "resonance", "uid": 3398270370, "data": {"score": 51, "keyword": "治愈", "rare": false}}
+{"ts": 1775019644, "type": "resonance", "uid": 3398270370, "data": {"score": 78, "keyword": "慵懒", "rare": false}}
+{"ts": 1775019648, "type": "resonance", "uid": 3398270370, "data": {"score": 65, "keyword": "慵懒", "rare": false}}
+{"ts": 1775019652, "type": "resonance", "uid": 3398270370, "data": {"score": 61, "keyword": "傲娇", "rare": false}}
+{"ts": 1775019657, "type": "resonance", "uid": 3398270370, "data": {"score": 67, "keyword": "咸鱼", "rare": false}}
+{"ts": 1775019661, "type": "resonance", "uid": 3398270370, "data": {"score": 68, "keyword": "混沌", "rare": false}}
+{"ts": 1775019665, "type": "resonance", "uid": 3398270370, "data": {"score": 42, "keyword": "慵懒", "rare": false}}
+{"ts": 1775019669, "type": "resonance", "uid": 3398270370, "data": {"score": 8, "keyword": "深沉", "rare": false}}
+{"ts": 1775019673, "type": "resonance", "uid": 3398270370, "data": {"score": 3, "keyword": "灵动", "rare": false}}
+{"ts": 1775019682, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1775019696, "type": "spam_block", "uid": 3398270370, "data": {"level": "warning"}}
+{"ts": 1775020031, "type": "soulmate_resonance", "uid": 2102561384, "data": {"partner": "3443688271", "gain": 6, "type": "half"}}
+{"ts": 1775023112, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1775023192, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 12, "drops": ["神秘种子", "析沐的钥匙"]}}
+{"ts": 1775026058, "type": "resonance", "uid": 3398270370, "data": {"score": 73, "keyword": "慵懒", "rare": false}}
+{"ts": 1775026063, "type": "resonance", "uid": 3398270370, "data": {"score": 89, "keyword": "灵动", "rare": false}}
+{"ts": 1775026073, "type": "resonance", "uid": 3398270370, "data": {"score": 26, "keyword": "混沌", "rare": false}}
+{"ts": 1775026104, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1775029792, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 8, "drops": ["法宝碎片"]}}
+{"ts": 1775029811, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 37}}
+{"ts": 1775029817, "type": "resonance", "uid": 3398270370, "data": {"score": 79, "keyword": "阳光", "rare": false}}
+{"ts": 1775029823, "type": "resonance", "uid": 3398270370, "data": {"score": 0, "keyword": "暴走", "rare": false}}
+{"ts": 1775029828, "type": "resonance", "uid": 3398270370, "data": {"score": 55, "keyword": "时空旅者", "rare": true}}
+{"ts": 1775029833, "type": "resonance", "uid": 3398270370, "data": {"score": 54, "keyword": "混沌", "rare": false}}
+{"ts": 1775029838, "type": "resonance", "uid": 3398270370, "data": {"score": 87, "keyword": "腹黑", "rare": false}}
+{"ts": 1775029843, "type": "resonance", "uid": 3398270370, "data": {"score": 75, "keyword": "腹黑", "rare": false}}
+{"ts": 1775029847, "type": "resonance", "uid": 3398270370, "data": {"score": 27, "keyword": "灵界行者", "rare": true}}
+{"ts": 1775029851, "type": "resonance", "uid": 3398270370, "data": {"score": 80, "keyword": "混沌", "rare": false}}
+{"ts": 1775029855, "type": "spam_block", "uid": 3398270370, "data": {"level": "warning"}}
+{"ts": 1775047787, "type": "resonance", "uid": 3398270370, "data": {"score": 45, "keyword": "阳光", "rare": false}}
+{"ts": 1775047790, "type": "resonance", "uid": 3398270370, "data": {"score": 77, "keyword": "时空旅者", "rare": true}}
+{"ts": 1775047799, "type": "resonance", "uid": 3398270370, "data": {"score": 91, "keyword": "暴走", "rare": false}}
+{"ts": 1775047803, "type": "resonance", "uid": 3398270370, "data": {"score": 45, "keyword": "傲娇", "rare": false}}
+{"ts": 1775047817, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1775050192, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 11, "drops": []}}
+{"ts": 1775051952, "type": "registry_update", "uid": 1464135138, "data": {"name": "楚砚或者焚"}}
+{"ts": 1775052054, "type": "resonance", "uid": 3398270370, "data": {"score": 100, "keyword": "暴走", "rare": false}}
+{"ts": 1775052058, "type": "resonance", "uid": 3398270370, "data": {"score": 46, "keyword": "阳光", "rare": false}}
+{"ts": 1775052065, "type": "resonance", "uid": 3398270370, "data": {"score": 46, "keyword": "暴走", "rare": false}}
+{"ts": 1775052070, "type": "resonance", "uid": 3398270370, "data": {"score": 33, "keyword": "深沉", "rare": false}}
+{"ts": 1775052074, "type": "resonance", "uid": 3398270370, "data": {"score": 85, "keyword": "灵动", "rare": false}}
+{"ts": 1775052081, "type": "resonance", "uid": 3398270370, "data": {"score": 60, "keyword": "灵动", "rare": false}}
+{"ts": 1775052085, "type": "resonance", "uid": 3398270370, "data": {"score": 90, "keyword": "万灵归宗", "rare": true}}
+{"ts": 1775052091, "type": "resonance", "uid": 3398270370, "data": {"score": 85, "keyword": "傲娇", "rare": false}}
+{"ts": 1775052096, "type": "resonance", "uid": 3398270370, "data": {"score": 23, "keyword": "阳光", "rare": false}}
+{"ts": 1775052101, "type": "resonance", "uid": 3398270370, "data": {"score": 26, "keyword": "天然呆", "rare": false}}
+{"ts": 1775052105, "type": "spam_block", "uid": 3398270370, "data": {"level": "warning"}}
+{"ts": 1775058152, "type": "resonance", "uid": 3398270370, "data": {"score": 27, "keyword": "混沌", "rare": false}}
+{"ts": 1775058161, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1775058189, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": true}}
+{"ts": 1775058212, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}

@@ -1,0 +1,23 @@
+{"ts": 1774196660, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 13, "drops": ["法宝碎片"]}}
+{"ts": 1774196685, "type": "achievement_unlock", "uid": 3398270370, "data": {"achievement": "炼器学徒", "rarity": "common"}}
+{"ts": 1774196722, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1774203254, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "3085699956", "gain": 6, "type": "half"}}
+{"ts": 1774203430, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "2854196310", "gain": 4, "type": "half"}}
+{"ts": 1774205259, "type": "resonance", "uid": 3141451467, "data": {"score": 37, "keyword": "清澄", "rare": false}}
+{"ts": 1774225972, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 61, "drops": []}}
+{"ts": 1774226324, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774229656, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1774258868, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 64, "drops": ["凤羽花", "法宝碎片"]}}
+{"ts": 1774259742, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774259767, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774263668, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 6, "drops": ["神秘种子"]}}
+{"ts": 1774263755, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774265933, "type": "expedition_start", "uid": 3141451467, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774267598, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 8, "drops": []}}
+{"ts": 1774269998, "type": "expedition_finish", "uid": 3141451467, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": ["灵心草", "神秘种子"]}}
+{"ts": 1774273565, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774273770, "type": "garden_water", "uid": 1468135138, "data": {"count": 1, "dew_used": false}}
+{"ts": 1774273778, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 21}}
+{"ts": 1774277198, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 6, "drops": ["法宝碎片"]}}
+{"ts": 1774277683, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774281506, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 14, "drops": []}}

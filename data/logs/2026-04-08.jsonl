@@ -1,0 +1,4 @@
+{"ts": 1775648536, "type": "heixiu_capture", "uid": 2102561384, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"type": "normal", "success": true, "group_id": 564234162, "fur_drop": null}}
+{"ts": 1775655182, "type": "soulmate_resonance", "uid": 3141451467, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"partner": "3403807933", "gain": 7, "type": "half", "group_id": 564234162}}
+{"ts": 1775656259, "type": "soulmate_resonance", "uid": 1468135138, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"partner": "1876352760", "gain": 40, "type": "full", "group_id": 564234162}}
+{"ts": 1775656279, "type": "meditation", "uid": 1468135138, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"sp_gain": 25, "group_id": 564234162, "mode": "normal"}}

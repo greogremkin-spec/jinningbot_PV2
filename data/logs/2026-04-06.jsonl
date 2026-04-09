@@ -1,0 +1,44 @@
+{"ts": 1775407541, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "晋宁老街", "sp": 6, "drops": []}}
+{"ts": 1775408479, "type": "meditation", "uid": 1876352760, "data": {"sp_gain": 39, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775408491, "type": "garden_water", "uid": 1876352760, "data": {"count": 4, "dew_used": false, "group_id": 564234162}}
+{"ts": 1775408869, "type": "meditation", "uid": 2517086769, "data": {"sp_gain": 15, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775410642, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775410915, "type": "resonance", "uid": 3398270370, "data": {"score": 92, "keyword": "回响", "rare": false, "group_id": 564234162, "duel_effect": "insight"}}
+{"ts": 1775410960, "type": "resonance", "uid": 3398270370, "data": {"score": 48, "keyword": "空鸣", "rare": false, "group_id": 564234162, "duel_effect": "initiative"}}
+{"ts": 1775411017, "type": "resonance", "uid": 3398270370, "data": {"score": 87, "keyword": "回响", "rare": false, "group_id": 564234162, "duel_effect": "insight"}}
+{"ts": 1775412853, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1775425541, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 26, "drops": []}}
+{"ts": 1775435127, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "2378665317", "gain": 6, "type": "half", "group_id": 564234162}}
+{"ts": 1775439402, "type": "soulmate_resonance", "uid": 1876352760, "data": {"partner": "2678313403", "gain": 6, "type": "half", "group_id": 564234162}}
+{"ts": 1775440051, "type": "soulmate_resonance", "uid": 1468135138, "data": {"partner": "3856124303", "gain": 5, "type": "half", "group_id": 564234162}}
+{"ts": 1775440072, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 42, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775440120, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1775441741, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 65, "drops": []}}
+{"ts": 1775444141, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "灵溪浅滩", "sp": 8, "drops": ["灵心草"]}}
+{"ts": 1775446752, "type": "meditation", "uid": 384343626, "data": {"sp_gain": 26, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775447028, "type": "kitchen", "uid": 1876352760, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775447068, "type": "use_item", "uid": 1876352760, "data": {"item": "忘忧草", "group_id": 564234162}}
+{"ts": 1775455169, "type": "meditation", "uid": 3141451467, "data": {"sp_gain": 28, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775455175, "type": "meditation", "uid": 3790559172, "data": {"sp_gain": 31, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775455595, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775455978, "type": "heixiu_capture", "uid": 3994295912, "data": {"type": "normal", "success": false, "group_id": 1092658209}}
+{"ts": 1775464566, "type": "spam_block", "uid": 3930977282, "data": {"level": "warning"}}
+{"ts": 1775464571, "type": "spam_block", "uid": 3930977282, "data": {"level": "ban"}}
+{"ts": 1775467819, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": 50, "success": true, "taste_loss": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775470181, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 24, "drops": ["蓝玉果", "忘忧草"]}}
+{"ts": 1775470235, "type": "kitchen", "uid": 1876352760, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775470289, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775471812, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 49, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775471817, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false, "group_id": 564234162}}
+{"ts": 1775471852, "type": "garden_harvest", "uid": 3398270370, "data": {"items": ["灵心草", "灵心草", "聚灵花", "灵心草"], "group_id": 564234162}}
+{"ts": 1775471889, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false, "group_id": 564234162}}
+{"ts": 1775471932, "type": "kitchen", "uid": 2102561384, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775471962, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "迷雾森林"}}
+{"ts": 1775485181, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 18, "drops": ["灵心草"]}}
+{"ts": 1775486381, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "迷雾森林", "sp": 26, "drops": ["灵心草"]}}
+{"ts": 1775486434, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1775488809, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775489267, "type": "kitchen", "uid": 3085699956, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"sp_change": -10, "success": false, "taste_loss_before": false, "taste_loss_after": true, "taste_loss_expired": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775489277, "type": "kitchen", "uid": 1468135138, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"sp_change": 50, "success": true, "taste_loss_before": false, "taste_loss_after": false, "taste_loss_expired": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775490055, "type": "expedition_finish", "uid": 3398270370, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"loc": "灵溪浅滩", "sp": 11, "drops": [], "group_id": 564234162}}
+{"ts": 1775490111, "type": "expedition_start", "uid": 1468135138, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"loc": "晋宁老街", "group_id": 564234162}}

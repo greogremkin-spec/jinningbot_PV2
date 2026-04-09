@@ -1,0 +1,10 @@
+{"ts": 1775494255, "type": "expedition_finish", "uid": 1468135138, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"loc": "晋宁老街", "sp": 6, "drops": [], "group_id": 564234162}}
+{"ts": 1775495333, "type": "expedition_start", "uid": 3398270370, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"loc": "晋宁老街", "group_id": 564234162}}
+{"ts": 1775495347, "type": "expedition_start", "uid": 3398270370, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"loc": "妖王遗迹", "group_id": 564234162}}
+{"ts": 1775524255, "type": "expedition_finish", "uid": 3398270370, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"loc": "妖王遗迹", "sp": 62, "drops": ["法宝碎片"], "group_id": 564234162}}
+{"ts": 1775535417, "type": "kitchen", "uid": 2102561384, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"sp_change": 2, "success": false, "taste_loss_before": true, "taste_loss_after": true, "taste_loss_expired": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775535454, "type": "soulmate_resonance", "uid": 2102561384, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"partner": "3398270370", "gain": 17, "type": "full", "group_id": 564234162}}
+{"ts": 1775563139, "type": "soulmate_resonance", "uid": 3537761858, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"partner": "3921182053", "gain": 4, "type": "half", "group_id": 564234162}}
+{"ts": 1775565591, "type": "soulmate_resonance", "uid": 3141451467, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"partner": "3690828224", "gain": 3, "type": "half", "group_id": 564234162}}
+{"ts": 1775569710, "type": "soulmate_resonance", "uid": 1468135138, "module": "entertainment", "group_id": 564234162, "trace": "", "data": {"partner": "3930977282", "gain": 26, "type": "full", "group_id": 564234162}}
+{"ts": 1775569858, "type": "meditation", "uid": 1468135138, "module": "cultivation", "group_id": 564234162, "trace": "", "data": {"sp_gain": 16, "group_id": 564234162, "mode": "normal"}}

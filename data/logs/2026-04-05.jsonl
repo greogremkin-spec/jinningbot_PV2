@@ -1,0 +1,36 @@
+{"ts": 1775318682, "type": "use_item", "uid": 1876352760, "data": {"item": "灵心草", "group_id": 564234162}}
+{"ts": 1775318691, "type": "meditation", "uid": 1876352760, "data": {"sp_gain": 68, "group_id": 564234162}}
+{"ts": 1775318691, "type": "achievement_unlock", "uid": 1876352760, "data": {"achievement": "一夜暴富", "rarity": "rare", "group_id": 564234162}}
+{"ts": 1775318726, "type": "garden_water", "uid": 1876352760, "data": {"count": 4, "dew_used": false, "group_id": 564234162}}
+{"ts": 1775319701, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "晋宁老街"}}
+{"ts": 1775323347, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "晋宁老街", "sp": 12, "drops": ["法宝碎片"]}}
+{"ts": 1775323366, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "晋宁老街"}}
+{"ts": 1775324285, "type": "spam_block", "uid": 3930977282, "data": {"level": "warning"}}
+{"ts": 1775324287, "type": "spam_block", "uid": 3930977282, "data": {"level": "ban"}}
+{"ts": 1775324460, "type": "soulmate_resonance", "uid": 1876352760, "data": {"partner": "2874529067", "gain": 3, "type": "half", "group_id": 564234162}}
+{"ts": 1775324468, "type": "soulmate_resonance", "uid": 384343626, "data": {"partner": "3958721171", "gain": 6, "type": "half", "group_id": 564234162}}
+{"ts": 1775327547, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "晋宁老街", "sp": 8, "drops": []}}
+{"ts": 1775327566, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775342068, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 19, "drops": []}}
+{"ts": 1775349925, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775350387, "type": "meditation", "uid": 2517086769, "data": {"sp_gain": 14, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775350405, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 20, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775355336, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "3275918283", "gain": 4, "type": "half", "group_id": 564234162}}
+{"ts": 1775355346, "type": "soulmate_resonance", "uid": 1468135138, "data": {"partner": "2679311202", "gain": 4, "type": "half", "group_id": 564234162}}
+{"ts": 1775364868, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 21, "drops": []}}
+{"ts": 1775364887, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775379341, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 27, "drops": ["忘忧草"]}}
+{"ts": 1775379705, "type": "kitchen", "uid": 1876352760, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775379725, "type": "use_item", "uid": 1876352760, "data": {"item": "忘忧草", "group_id": 564234162}}
+{"ts": 1775379824, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775380677, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": 50, "success": true, "taste_loss": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775381720, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1775382213, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": 2, "success": false, "taste_loss": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775396141, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 23, "drops": ["忘忧草", "吉熙的信羽"]}}
+{"ts": 1775398516, "type": "kitchen", "uid": 1876352760, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775398576, "type": "use_item", "uid": 1876352760, "data": {"item": "忘忧草", "group_id": 564234162}}
+{"ts": 1775398608, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "晋宁老街"}}
+{"ts": 1775398806, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": 2, "success": false, "taste_loss": false, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775398858, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": -10, "success": false, "taste_loss": true, "group_id": 564234162, "mode": "normal"}}
+{"ts": 1775402741, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "晋宁老街", "sp": 10, "drops": []}}
+{"ts": 1775403530, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "晋宁老街"}}

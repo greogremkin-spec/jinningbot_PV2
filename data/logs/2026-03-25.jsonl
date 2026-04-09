@@ -1,0 +1,9 @@
+{"ts": 1774376451, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "2022662473", "gain": 3, "type": "half"}}
+{"ts": 1774394264, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 58, "drops": []}}
+{"ts": 1774395072, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1774400013, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "3930977282", "gain": 29, "type": "full"}}
+{"ts": 1774409734, "type": "meditation", "uid": 3537761858, "data": {"sp_gain": 43}}
+{"ts": 1774412476, "type": "meditation", "uid": 635799803, "data": {"sp_gain": 15}}
+{"ts": 1774414877, "type": "meditation", "uid": 3141451467, "data": {"sp_gain": 36}}
+{"ts": 1774424264, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 74, "drops": []}}
+{"ts": 1774446249, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 40}}

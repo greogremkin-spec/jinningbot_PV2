@@ -1,0 +1,24 @@
+{"ts": 1774179394, "type": "spam_block", "uid": 1219138963, "data": {"level": "warning"}}
+{"ts": 1774179582, "type": "expedition_start", "uid": 3141451467, "data": {"loc": "晋宁老街"}}
+{"ts": 1774179845, "type": "expedition_finish", "uid": 384343626, "data": {"loc": "灵溪周边", "sp": 7, "drops": ["析沐的钥匙"]}}
+{"ts": 1774179845, "type": "expedition_finish", "uid": 3930977282, "data": {"loc": "灵溪周边", "sp": 9, "drops": ["神秘种子"]}}
+{"ts": 1774179845, "type": "expedition_finish", "uid": 3168483503, "data": {"loc": "灵溪周边", "sp": 10, "drops": []}}
+{"ts": 1774179846, "type": "expedition_finish", "uid": 2825944848, "data": {"loc": "灵溪周边", "sp": 11, "drops": []}}
+{"ts": 1774179846, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪周边", "sp": 14, "drops": ["神秘种子"]}}
+{"ts": 1774179846, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "灵溪周边", "sp": 9, "drops": ["神秘种子"]}}
+{"ts": 1774179847, "type": "expedition_finish", "uid": 1145912829, "data": {"loc": "灵溪周边", "sp": 6, "drops": []}}
+{"ts": 1774179902, "type": "resonance", "uid": 3398270370, "data": {"score": 7, "keyword": "混沌", "rare": false}}
+{"ts": 1774179914, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 36}}
+{"ts": 1774179964, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774183596, "type": "expedition_finish", "uid": 3141451467, "data": {"loc": "晋宁老街", "sp": 9, "drops": ["神秘种子"]}}
+{"ts": 1774183596, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 9, "drops": ["析沐的钥匙"]}}
+{"ts": 1774183670, "type": "garden_water", "uid": 3398270370, "data": {"count": 1, "dew_used": false}}
+{"ts": 1774183721, "type": "garden_water", "uid": 3398270370, "data": {"count": 3, "dew_used": false}}
+{"ts": 1774183842, "type": "unlock_location", "uid": 3398270370, "data": {"location": "妖王遗迹"}}
+{"ts": 1774183842, "type": "achievement_unlock", "uid": 3398270370, "data": {"achievement": "钥匙守护者", "rarity": "rare"}}
+{"ts": 1774183897, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774187796, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 9, "drops": ["神秘种子"]}}
+{"ts": 1774187833, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774191996, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 5, "drops": []}}
+{"ts": 1774192830, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774192852, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}

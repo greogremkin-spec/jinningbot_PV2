@@ -1,0 +1,47 @@
+{"ts": 1774803183, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "1206320986", "gain": 4, "type": "half"}}
+{"ts": 1774803226, "type": "resonance", "uid": 3537761858, "data": {"score": 26, "keyword": "清澄", "rare": false}}
+{"ts": 1774803242, "type": "soulmate_resonance", "uid": 3398270370, "data": {"partner": "3804005144", "gain": 4, "type": "half"}}
+{"ts": 1774803324, "type": "meditation", "uid": 3537761858, "data": {"sp_gain": 36}}
+{"ts": 1774803324, "type": "achievement_unlock", "uid": 3537761858, "data": {"achievement": "深夜修行者", "rarity": "rare"}}
+{"ts": 1774803364, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 27}}
+{"ts": 1774803364, "type": "achievement_unlock", "uid": 3398270370, "data": {"achievement": "深夜修行者", "rarity": "rare"}}
+{"ts": 1774803397, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "妖王遗迹"}}
+{"ts": 1774803438, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "3473367810", "gain": 5, "type": "half"}}
+{"ts": 1774803474, "type": "meditation", "uid": 3141451467, "data": {"sp_gain": 48}}
+{"ts": 1774803474, "type": "achievement_unlock", "uid": 3141451467, "data": {"achievement": "深夜修行者", "rarity": "rare"}}
+{"ts": 1774811823, "type": "garden_water", "uid": 1468135138, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774811890, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774815592, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 7, "drops": ["嘿咻毛球"]}}
+{"ts": 1774815656, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774819792, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 6, "drops": ["法宝碎片"]}}
+{"ts": 1774823466, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774827592, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 7, "drops": ["嘿咻毛球"]}}
+{"ts": 1774832392, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "妖王遗迹", "sp": 58, "drops": []}}
+{"ts": 1774832598, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774836263, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774836316, "type": "resonance", "uid": 3398270370, "data": {"score": 16, "keyword": "阳光", "rare": false}}
+{"ts": 1774836332, "type": "resonance", "uid": 3398270370, "data": {"score": 19, "keyword": "傲娇", "rare": false}}
+{"ts": 1774836338, "type": "resonance", "uid": 3398270370, "data": {"score": 85, "keyword": "傲娇", "rare": false}}
+{"ts": 1774836350, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": []}}
+{"ts": 1774836351, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774840192, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 5, "drops": ["法宝碎片", "嘿咻毛球"]}}
+{"ts": 1774844480, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774846660, "type": "heixiu_capture", "uid": 3141451467, "data": {"type": "normal", "success": true}}
+{"ts": 1774848592, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 12, "drops": []}}
+{"ts": 1774849199, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774853392, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": ["灵心草", "露水凝珠"]}}
+{"ts": 1774860230, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774864192, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 9, "drops": []}}
+{"ts": 1774864267, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774868392, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 5, "drops": []}}
+{"ts": 1774868627, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774872592, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 7, "drops": ["法宝碎片", "神秘种子"]}}
+{"ts": 1774872592, "type": "achievement_unlock", "uid": 3398270370, "data": {"achievement": "灵域先驱", "rarity": "rare"}}
+{"ts": 1774873249, "type": "heixiu_capture", "uid": 3141451467, "data": {"type": "golden", "success": true}}
+{"ts": 1774873249, "type": "achievement_unlock", "uid": 3141451467, "data": {"achievement": "黄金传说", "rarity": "legendary"}}
+{"ts": 1774876480, "type": "heixiu_capture", "uid": 3141451467, "data": {"type": "rainbow", "success": true}}
+{"ts": 1774876480, "type": "achievement_unlock", "uid": 3141451467, "data": {"achievement": "彩虹猎手", "rarity": "epic"}}
+{"ts": 1774878745, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774882792, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 8, "drops": ["法宝碎片", "嘿咻毛球"]}}
+{"ts": 1774882815, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774885987, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}

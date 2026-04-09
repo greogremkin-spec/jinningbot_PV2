@@ -1,0 +1,87 @@
+{"ts": 1774628165, "type": "soulmate_resonance", "uid": 3141451467, "data": {"partner": "2490058787", "gain": 2, "type": "half"}}
+{"ts": 1774628178, "type": "meditation", "uid": 1468135138, "data": {"sp_gain": 28}}
+{"ts": 1774628178, "type": "achievement_unlock", "uid": 1468135138, "data": {"achievement": "深夜修行者", "rarity": "rare"}}
+{"ts": 1774628213, "type": "soulmate_resonance", "uid": 1468135138, "data": {"partner": "2376207505", "gain": 5, "type": "half"}}
+{"ts": 1774628774, "type": "soulmate_resonance", "uid": 2517086769, "data": {"partner": "3316950030", "gain": 7, "type": "half"}}
+{"ts": 1774628936, "type": "registry_update", "uid": 2102561384, "data": {"name": "艾晞"}}
+{"ts": 1774628993, "type": "soulmate_resonance", "uid": 2102561384, "data": {"partner": "3168483503", "gain": 18, "type": "full"}}
+{"ts": 1774638104, "type": "meditation", "uid": 1876352760, "data": {"sp_gain": 36}}
+{"ts": 1774638135, "type": "garden_water", "uid": 1876352760, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774638204, "type": "unlock_location", "uid": 1876352760, "data": {"location": "迷雾森林"}}
+{"ts": 1774638204, "type": "achievement_unlock", "uid": 1876352760, "data": {"achievement": "钥匙守护者", "rarity": "rare"}}
+{"ts": 1774638240, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1774638253, "type": "soulmate_resonance", "uid": 1876352760, "data": {"partner": "3321748570", "gain": 5, "type": "half"}}
+{"ts": 1774639746, "type": "soulmate_resonance", "uid": 3537761858, "data": {"partner": "3756046429", "gain": 2, "type": "half"}}
+{"ts": 1774639768, "type": "resonance", "uid": 3537761858, "data": {"score": 65, "keyword": "慵懒", "rare": false}}
+{"ts": 1774639788, "type": "resonance", "uid": 3537761858, "data": {"score": 49, "keyword": "慵懒", "rare": false}}
+{"ts": 1774639794, "type": "meditation", "uid": 3537761858, "data": {"sp_gain": 31}}
+{"ts": 1774653159, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 19, "drops": []}}
+{"ts": 1774657887, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1774659543, "type": "meditation", "uid": 3398270370, "data": {"sp_gain": 22}}
+{"ts": 1774659549, "type": "garden_water", "uid": 3398270370, "data": {"count": 4, "dew_used": false}}
+{"ts": 1774659614, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774663359, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 5, "drops": ["嘿咻毛球"]}}
+{"ts": 1774663789, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774667559, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "废弃地铁站", "sp": 7, "drops": ["析沐的钥匙"]}}
+{"ts": 1774669164, "type": "kitchen", "uid": 3141451467, "data": {"sp_change": -10, "success": false, "taste_loss": true}}
+{"ts": 1774669187, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": -10, "success": false, "taste_loss": true}}
+{"ts": 1774669424, "type": "meditation", "uid": 3141451467, "data": {"sp_gain": 18}}
+{"ts": 1774669534, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774669672, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774672359, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 21, "drops": ["灵心草", "忘忧草"]}}
+{"ts": 1774672817, "type": "kitchen", "uid": 1876352760, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774672893, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774673559, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 8, "drops": ["法宝碎片"]}}
+{"ts": 1774673592, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774676955, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "废弃地铁站", "sp": 5, "drops": []}}
+{"ts": 1774677191, "type": "soulmate_resonance", "uid": 1951672843, "data": {"partner": "2608774696", "gain": 6, "type": "half"}}
+{"ts": 1774677555, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 10, "drops": ["神秘种子"]}}
+{"ts": 1774679132, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774680369, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "迷雾森林"}}
+{"ts": 1774682815, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 10, "drops": []}}
+{"ts": 1774682825, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774685251, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774686424, "type": "registry_update", "uid": 2102561384, "data": {"name": "艾晞"}}
+{"ts": 1774686430, "type": "kitchen", "uid": 1468135138, "data": {"sp_change": -10, "success": false, "taste_loss": true}}
+{"ts": 1774687015, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 8, "drops": []}}
+{"ts": 1774687039, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774688885, "type": "garden_water", "uid": 1468135138, "data": {"count": 1, "dew_used": false}}
+{"ts": 1774688932, "type": "garden_water", "uid": 1468135138, "data": {"count": 3, "dew_used": false}}
+{"ts": 1774689063, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 12, "drops": []}}
+{"ts": 1774689350, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774690820, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 6, "drops": []}}
+{"ts": 1774690961, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774692336, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": -10, "success": false, "taste_loss": true}}
+{"ts": 1774693093, "type": "registry_new", "uid": 1464135138, "data": {"name": "楚砚或者焚"}}
+{"ts": 1774693122, "type": "registry_update", "uid": 1464135138, "data": {"name": "楚砚或者焚"}}
+{"ts": 1774693220, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 11, "drops": ["灵心草"]}}
+{"ts": 1774693429, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "晋宁老街"}}
+{"ts": 1774695020, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "迷雾森林", "sp": 21, "drops": []}}
+{"ts": 1774695020, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 9, "drops": []}}
+{"ts": 1774695032, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774697420, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "晋宁老街", "sp": 11, "drops": []}}
+{"ts": 1774698356, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774699220, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 6, "drops": ["嘿咻毛球"]}}
+{"ts": 1774699239, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774702220, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 8, "drops": ["灵心草", "露水凝珠"]}}
+{"ts": 1774702317, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774703420, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 10, "drops": ["法宝碎片", "嘿咻毛球"]}}
+{"ts": 1774703438, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774703755, "type": "garden_water", "uid": 2825944848, "data": {"count": 2, "dew_used": false}}
+{"ts": 1774703857, "type": "expedition_start", "uid": 2825944848, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774705067, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774706420, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": ["灵心草", "神秘种子"]}}
+{"ts": 1774706439, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774707620, "type": "expedition_finish", "uid": 2825944848, "data": {"loc": "灵溪浅滩", "sp": 12, "drops": ["神秘种子"]}}
+{"ts": 1774707620, "type": "expedition_finish", "uid": 1468135138, "data": {"loc": "废弃地铁站", "sp": 10, "drops": ["嘿咻毛球"]}}
+{"ts": 1774707699, "type": "expedition_start", "uid": 2825944848, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774708820, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": ["灵心草"]}}
+{"ts": 1774709250, "type": "expedition_start", "uid": 1876352760, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774710620, "type": "expedition_finish", "uid": 3398270370, "data": {"loc": "灵溪浅滩", "sp": 8, "drops": ["灵心草", "神秘种子"]}}
+{"ts": 1774711028, "type": "kitchen", "uid": 2517086769, "data": {"sp_change": -10, "success": false, "taste_loss": true}}
+{"ts": 1774711058, "type": "expedition_start", "uid": 1468135138, "data": {"loc": "废弃地铁站"}}
+{"ts": 1774711639, "type": "kitchen", "uid": 1499674474, "data": {"sp_change": 50, "success": true, "taste_loss": false}}
+{"ts": 1774712179, "type": "expedition_start", "uid": 3398270370, "data": {"loc": "灵溪浅滩"}}
+{"ts": 1774712274, "type": "registry_update", "uid": 1320739055, "data": {"name": "衍"}}
+{"ts": 1774712392, "type": "expedition_finish", "uid": 2825944848, "data": {"loc": "灵溪浅滩", "sp": 10, "drops": ["露水凝珠"]}}
+{"ts": 1774712992, "type": "expedition_finish", "uid": 1876352760, "data": {"loc": "灵溪浅滩", "sp": 12, "drops": ["神秘种子"]}}
